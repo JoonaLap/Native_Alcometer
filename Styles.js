@@ -65,14 +65,9 @@ export default StyleSheet.create({
       },
     radio: {
         marginTop: 10,
-        // marginBottom: 10,
-        // nyt näyttää puhelimella hyvältä
         fontSize: 20,
         marginRight: 30,
-        // flexDirection: 'row',
-        // justifyContent: 'space-between',
-        // alignItems: 'flex-start',
-        // width: '100%',
+
         
       },
       button: {
